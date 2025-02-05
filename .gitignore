@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HarshaBank/HarshaBankPresentation/obj
+/HarshaBank/HarshaBankPresentation/bin/Debug
+/HarshaBank/.vs/HarshaBank/v17
+/HarshaBank/.vs/HarshaBank/FileContentIndex
